@@ -6,6 +6,7 @@ for (let i = 0; i < arr.length; i++) {
     eNum.push(i);
   } else {
     oNum.push(i);
+    //New change
   }
 }
 console.log("Even numbers:", eNum);
